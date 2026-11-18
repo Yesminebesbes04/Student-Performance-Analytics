@@ -1,0 +1,8 @@
+id,name,study_hrs,attend,prev,sleep,exam
+S101,Neha,4.5,92%,78,7.0,81
+S102,Rahul,1.8,64,55,6.5,58
+S103,Pooja,,88,69,,84
+S104,Aarav,6.2,,,8.0,88
+S105,Priya,3.0,,,7.1,
+S106,Kabir,5.1,95,81,6.8,130
+S107,Meera,2.4,81%,60,7.4,66
